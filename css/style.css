@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.bg-color-header{
+    background-color: rgb(37, 94, 233);
+}
+
+.bg-img{
+    background-image:url(../img/jumbo.png) ;
+}
+
+
+.bg-color-main{
+    background-color: rgb(246, 246, 246);
+}
+
+.text-blue-footer{
+    color: rgb(98, 117, 184);
+}
+
+.bg-color-footer{
+    background-color: rgb(35, 39, 42);
+}
+
+
