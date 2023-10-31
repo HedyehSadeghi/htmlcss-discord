@@ -17,6 +17,14 @@
     background-color: rgb(246, 246, 246);
 }
 
+.padding2top{
+    padding-top: 2em;
+}
+
+.padding2bottom{
+    padding-bottom: 2em;
+}
+
 .text-blue-footer{
     color: rgb(98, 117, 184);
 }
