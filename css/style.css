@@ -12,6 +12,9 @@
     background-image:url(../img/jumbo.png) ;
 }
 
+.bg-img2{
+    background-image: url(../img/stars.svg);
+}
 
 .bg-color-main{
     background-color: rgb(246, 246, 246);
